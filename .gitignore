@@ -1,0 +1,7 @@
+#ignore files with extension .db, .log files
+*.db
+*.log
+
+#ignore directories target and bin
+target/
+bin/
